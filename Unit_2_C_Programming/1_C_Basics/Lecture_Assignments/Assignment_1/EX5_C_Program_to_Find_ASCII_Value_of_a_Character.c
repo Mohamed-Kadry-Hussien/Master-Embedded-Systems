@@ -1,0 +1,22 @@
+/*
+ ======================================================================================================================
+ Name        : EX5_C_Program_to_Find_ASCII_Value_of_a_Character
+ Author      : Eng.Mohamed Kadry Hussien
+ Created on	 : 24/7/2024
+ Description : Unit 2 C-Progtamming >> C-Basic >> Assignment_1 >>Ex_5 using Ansi-style (c99)
+ ======================================================================================================================
+ */
+
+#include <stdio.h>
+
+
+int main(void)
+{
+   char ch;
+   printf("Enter the charcter:");
+   scanf("%c",&ch);
+   printf("ASCII value of %c = %d",ch,ch);
+
+
+
+}
