@@ -6,15 +6,8 @@
 
 I am **Mohamed Kadry Hussein**, a student at the Faculty of Engineering, Zagazig University, specializing in Computer and Control Systems. My passion lies in the field of embedded systems, where I am dedicated to gaining the utmost proficiency and expertise. I am enthusiastic about work, diligent in my studies, and committed to excelling in this dynamic and exciting field.
 
-## Skills & Interests
-- **Embedded Systems**
-- **Computer and Control Systems**
-- **Software Development**
-- **Problem Solving**
-
 ## Projects
 [![Super Mario Game](https://img.shields.io/badge/Super%20Mario%20Game-JavaFX-orange)](https://github.com/your-github-username/Super-Mario-Game)
-[![Sales Management Program](https://img.shields.io/badge/Sales%20Management%20Program-JavaFX-yellow)](https://github.com/your-github-username/Sales-Management-Program)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Kadry%20Hussein-blue)](https://www.linkedin.com/in/mohamed-kadry-bba826254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
