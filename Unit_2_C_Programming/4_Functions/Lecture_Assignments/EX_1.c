@@ -3,7 +3,7 @@
  Name        : EX_1_find and print the prime numbers between two intervals entered by the user
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 9/8/2024
- Description : Unit 2 C-Programming >>Functions>>Ex_1 using ANSI-style (c99)
+ Description : Unit 2 C-Programming >>Functions>>Ex_1 using ANSI-style c99
  ======================================================================================================================
  */
 #include <stdio.h>
