@@ -16,8 +16,8 @@
 #include <stdlib.h>
 #include <math.h>
 
-// Function prototype (declaration) for reverse digits
-int reverse_digits(int num);
+// Function prototype (declaration) for number_of_ones
+int number_of_ones(int num);
 
 
 
@@ -30,7 +30,7 @@ int main()
     return 0;
 }
 
-// Function definition for reverse digits
+// Function definition for number_of_ones
 int number_of_ones(int num)
 {
     int counter =0;
