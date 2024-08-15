@@ -14,7 +14,7 @@ int main(void)
 {
    float num_1,num_2;
    double result;
-   printf("Enter the two numbers:");
+   printf("Enter the two numbers : \n");
    scanf("%f %f",&num_1,&num_2);
    result=num_1*num_2;
    printf("product:%f",result);

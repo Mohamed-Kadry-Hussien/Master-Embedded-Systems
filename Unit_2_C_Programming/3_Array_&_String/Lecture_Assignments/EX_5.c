@@ -1,66 +1,65 @@
 /*
  ======================================================================================================================
  Name        : EX_5_Transpose_of_matrix
- Author      : Eng.Mohamed Kadry Hussien
- Created on	 : 31/7/2024
- Description : Unit 2 C-Progtamming >>Array&string >> assignments >> EX_5 using Ansi-style (c99)
+ Author      : Eng. Mohamed Kadry Hussien
+ Created on  : 31/7/2024
+ Description : Unit 2 C-Programming >> Array & String >> Assignments >> EX_5 using Ansi-style (C99)
  ======================================================================================================================
  */
 
 #include <stdio.h>
-#include <string.h>
 
-void main()
+int main()
 {
-    int row,column;
+    int row, column;
 
-    printf("Enter the number of rows:");
-    scanf("%d",&row);
-    printf("Enter the number of columns:");
-    scanf("%d",&column);
+    printf("Enter the number of rows: ");
+    scanf("%d", &row);
+    printf("Enter the number of columns: ");
+    scanf("%d", &column);
 
-    float matrix [row][column];
-    float transpose [row][column];
+    float matrix[row][column];
+    float transpose[column][row];
 
-    printf("Enter the matrix : \n");
-    for(int i=0; i<row; i++)
+    printf("Enter the matrix:\n");
+    for (int i = 0; i < row; i++)
     {
-        for(int j=0; j<column; j++)
+        for (int j = 0; j < column; j++)
         {
-            scanf("%f",&matrix[i][j]);
+            scanf("%f", &matrix[i][j]);
         }
     }
 
-
-    for(int i=0; i<row; i++)
+    // Calculate the transpose of the matrix
+    for (int i = 0; i < row; i++)
     {
-        for(int j=0; j<column; j++)
+        for (int j = 0; j < column; j++)
         {
-            transpose[i][j]=matrix[j][i];
+            transpose[j][i] = matrix[i][j];  // Swap the indices for transposing
         }
     }
 
-
-    printf("the normal matrix :\n");
-    for(int i=0; i<row; i++)
+    // Print the original matrix
+    printf("The original matrix:\n");
+    for (int i = 0; i < row; i++)
     {
-        for(int j=0; j<column; j++)
+        for (int j = 0; j < column; j++)
         {
-            printf("%2.2f  ",matrix[i][j]);
+            printf("%2.2f  ", matrix[i][j]);
         }
         printf("\n");
     }
 
-
-    printf("the transpose of  matrix :\n");
-    for(int i=0; i<row; i++)
+    // Print the transposed matrix
+    printf("The transpose of the matrix:\n");
+    for (int i = 0; i < column; i++)  // rows and columns are swapped
     {
-        for(int j=0; j<column; j++)
+        for (int j = 0; j < row; j++)
         {
-            printf("%2.2f  ",transpose[i][j]);
+            printf("%2.2f  ", transpose[i][j]);
         }
-        puts(""); // new line added after every row
-
+        printf("\n");
     }
 
+    return 0;
 }

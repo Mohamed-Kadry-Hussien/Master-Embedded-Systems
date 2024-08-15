@@ -26,13 +26,13 @@ int main(void) {
 	scanf("%c",&choose);
 	if(choose=='a'||choose=='A')
 	{
-		printf("the Area of Circle with radius(%f)equal %f\n",radius,Area);
+		printf("the Area of Circle with radius(%0.2f)equal %f\n",radius,Area);
 	}
 	else if(choose=='b'||choose=='B')
 	{
-		printf("the Circumference of Circle with radius(%f)equal %f\n",radius,Circumference);
+		printf("the Circumference of Circle with radius(%0.2f)equal %f\n",radius,Circumference);
 	}
-	printf("choose\ncalculate again click 'z'\nclose application click 'c'");
+	printf("choose\ncalculate again click 'z'\nclose application click 'c'\n");
 	fflush(stdin);
 	fflush(stdout);
 	scanf("%c",&again);

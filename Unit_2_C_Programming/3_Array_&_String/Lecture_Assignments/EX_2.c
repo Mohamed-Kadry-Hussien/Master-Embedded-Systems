@@ -10,7 +10,7 @@
 #include <stdio.h>
 #define n 100
 
-void main()
+int main()
 {
    char str [n];
    int z=0;

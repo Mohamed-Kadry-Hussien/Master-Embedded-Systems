@@ -21,7 +21,7 @@ int main(void)
    temp=num_1;
    num_1=num_2;
    num_2=temp;
-   printf("After swapping, value of num_1:%f\n",num_1);
-   printf("After swapping, value of num_2:%f\n",num_2);
+   printf("After swapping, value of num_1: %0.2f\n",num_1);
+   printf("After swapping, value of num_2: %0.2f\n",num_2);
 
 }

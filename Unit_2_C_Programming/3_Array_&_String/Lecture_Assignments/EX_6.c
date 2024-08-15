@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <string.h> // To use only strlen() function
 #define SIZE 100
-void main(void)
+int main(void)
 {
    int arr [SIZE];
    int searched_element;

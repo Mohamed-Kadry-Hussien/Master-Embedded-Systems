@@ -14,9 +14,9 @@ int main(void)
 {
    int num_1,num_2,sum;
    fflush(stdin);fflush(stdout);
-   printf("Enter the two numbers");
+   printf("Enter the two numbers : \n");
    fflush(stdin);fflush(stdout);
-   scanf("%d %d",&num_1,&num_2);
+   scanf("%d   %d",&num_1,&num_2);
    sum= num_1+num_2;
    printf("sum:%d",sum);
 

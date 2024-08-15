@@ -25,8 +25,8 @@ int main(void)
 	    sum_of_degrees+=degree;
 
 	}
-	average=sum_of_degrees/num_of_students;
-	printf("the Average students degree equal %f",average);
+	average=(float)sum_of_degrees/num_of_students;
+	printf("the Average students degree equal %0.2f",average);
 
 
 }

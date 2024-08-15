@@ -10,23 +10,23 @@
 #include <stdio.h>
 #include <string.h> // To use only strlen() function
 #define SIZE 100
-void main(void)
+int main(void)
 {
    char str [SIZE];
    char reverse_str [SIZE];
    int i = 0,j=0;
    printf("Enter the string: ");
-   scanf("%s", &str);
+   scanf("%s", str);
 
    int index = strlen(str);
 
-   for (i = index;i>=0;i--)
+   for (i = index - 1; i >= 0; i--)
    {
-        reverse_str [j] = str[--index];
+        reverse_str[j] = str[i];
         j++;
    }
 
+   reverse_str[j] = '\0'; // Adding null terminator at the end
+
    printf("Reverse string is %s", reverse_str);
-
-
 }

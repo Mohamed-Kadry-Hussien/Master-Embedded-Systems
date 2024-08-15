@@ -8,9 +8,9 @@
 */
 
 #include <stdio.h>
-#include <string.h> // To use only strlen() function
+#include <string.h>
 #define SIZE 100
-void main(void)
+int main(void)
 {
    int arr [SIZE];
    int inserted_element;
@@ -38,7 +38,7 @@ void main(void)
    fflush(stdin);
    fflush(stdout);
    scanf("%d",&location);
-   for(int i=n_of_elements+1;i>location;i--)
+   for(int i=n_of_elements;i>(location-1);i--)
    {
        arr[i]=arr[i-1];
    }
@@ -56,4 +56,5 @@ void main(void)
    {
      printf("%d   ",arr[i]);
    }
+   return 0;
 }

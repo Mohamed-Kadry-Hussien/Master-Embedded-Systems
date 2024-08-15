@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void main()
+int main()
 {
     float matrix_1 [2][2];
     float matrix_2 [2][2];
@@ -45,13 +45,13 @@ void main()
     {
         for(int j=0; j<2; j++)
         {
-            printf("%2.2f  ",sum[i][j]);
+            printf("%0.3f  ",sum[i][j]);
         }
         printf("\n");
     }
 
 
 
-
+   return 0;
 
 }

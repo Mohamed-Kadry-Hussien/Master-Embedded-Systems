@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <string.h>
 #define j 100
-void main()
+int main()
 {
    char str [j];
    char ch ;

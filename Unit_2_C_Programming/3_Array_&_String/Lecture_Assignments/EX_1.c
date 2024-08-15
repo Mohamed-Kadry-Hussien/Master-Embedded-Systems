@@ -9,7 +9,7 @@
 
 
 #include <stdio.h>
-void main(void)
+int main(void)
 {
     int n;
     float sum=0;
