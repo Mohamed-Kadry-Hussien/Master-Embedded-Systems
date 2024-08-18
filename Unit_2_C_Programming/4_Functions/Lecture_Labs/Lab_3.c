@@ -1,6 +1,6 @@
 /*
  ======================================================================================================================
- Name        : lab_Finding a Name in a Set of Names
+ Name        : lab3_Finding a Name in a Set of Names
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 7/8/2024
  Description : Unit 2 C-Programming >>Function >> lab3 using Ansi-style (c99)

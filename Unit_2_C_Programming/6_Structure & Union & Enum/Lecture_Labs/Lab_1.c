@@ -3,7 +3,7 @@
  Name        : Lab_1 Write A program Adding Two Complex Numbers using Structure And Function
  Author      : Eng. Mohamed Kadry Hussien
  Created on	 : 15/8/2024
- Description : Unit 2 C-Programming >>Structure using ANSI-style (c99)
+ Description : Unit 2 C-Programming >>Structure>>LABS using ANSI-style (c99)
  ======================================================================================================================
  */
 
