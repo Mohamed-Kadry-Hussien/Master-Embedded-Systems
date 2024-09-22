@@ -3,7 +3,7 @@
  Name        : EX_5_Transpose_of_matrix
  Author      : Eng. Mohamed Kadry Hussien
  Created on  : 31/7/2024
- Description : Unit 2 C-Programming >> Array & String >> Assignments >> EX_5 using Ansi-style (C99)
+ Description : Unit 2 C-Programming >> Array & String >> Assignments >> EX_5
  ======================================================================================================================
  */
 

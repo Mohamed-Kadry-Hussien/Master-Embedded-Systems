@@ -3,7 +3,7 @@
  Name        : EX_8_ Reverse a string without using built-in functions
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 31/7/2024
- Description : Unit 2 C-Progtamming >>Array&string >> assignments >> EX_8 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Array&string >> assignments >> EX_8
  ======================================================================================================================
 */
 

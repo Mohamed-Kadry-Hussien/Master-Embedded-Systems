@@ -3,7 +3,7 @@
  Name        : Lab_1_Average of Weight.
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 24/8/2024
- Description : Unit 2 C-Programming >>Pointer>>Lab_1 using ANSI C-style (c99)
+ Description : Unit 2 C-Programming >>Pointer>>Lab_1 
  ======================================================================================================================
  */
 #include <stdio.h>

@@ -6,7 +6,7 @@
                 * ex: input: 1, 20 -> output:1 2 5 7 11 13 17 19
  Author      : Eng. Mohamed Kadry Hussien
  Created on	 : 12/8/2024
- Description : Unit 2 C-Programming >> MidTerm using ANSI-style (c99)
+ Description : Unit 2 C-Programming >> MidTerm 
  ======================================================================================================================
  */
 #include <stdio.h>

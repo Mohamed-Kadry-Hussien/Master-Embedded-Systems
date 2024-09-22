@@ -3,7 +3,7 @@
  Name        : EX5_C_Program_to_Find_Area_of_a_circle_by_Passing_Arguments.
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 17/8/2024
- Description : Unit 2 C-Programming >>Structures >> assignments >> EX5 using ANSI C-style (c99)
+ Description : Unit 2 C-Programming >>Structures >> assignments >> EX5 
  ======================================================================================================================
  */
 

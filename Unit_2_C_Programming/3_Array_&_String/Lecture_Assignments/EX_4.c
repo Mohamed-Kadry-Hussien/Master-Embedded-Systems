@@ -3,7 +3,7 @@
  Name        : EX_4_Sum of a 2 matrix [2][2]
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 31/7/2024
- Description : Unit 2 C-Progtamming >>Array&string >> assigments >> EX_4 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Array&string >> assigments >> EX_4
  ======================================================================================================================
  */
 

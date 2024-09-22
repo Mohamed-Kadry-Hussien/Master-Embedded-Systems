@@ -3,7 +3,7 @@
  Name        : EX7_find the Factorial of a number
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 24/7/2024
- Description : Unit 2 C-Progtamming >> C-Basic >> Assignment_2 >>Ex_7 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >> C-Basic >> Assignment_2 >>Ex_7
  ======================================================================================================================
  */
 #include <stdio.h>

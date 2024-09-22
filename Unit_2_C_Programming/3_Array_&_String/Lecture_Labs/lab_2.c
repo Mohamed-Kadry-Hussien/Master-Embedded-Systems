@@ -3,7 +3,7 @@
  Name        : lab_2_Calculate_Polynomial_Value_for_a_Set_of_Inputs
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 31/7/2024
- Description : Unit 2 C-Progtamming >>Array&string >> lab2 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Array&string >> lab2
  ======================================================================================================================
  */
 

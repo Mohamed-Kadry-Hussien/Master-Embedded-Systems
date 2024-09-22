@@ -3,7 +3,7 @@
  Name        : EX1-C Program to Store Information of a Student Using Structure
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 17/8/2024
- Description : Unit 2 C-Progtamming >>Structures >> assignments >> EX1  using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Structures >> assignments >> EX1  
  ======================================================================================================================
  */
 

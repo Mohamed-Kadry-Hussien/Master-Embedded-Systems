@@ -3,7 +3,7 @@
  Name        : EX4_C_Program_to_Store_Information_of_Students_Using_Structure
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 17/8/2024
- Description : Unit 2 C-Progtamming >> Structures >> assignments >> EX4  using Ansi-style (c99)
+ Description : Unit 2 C-Programming >> Structures >> assignments >> EX4  
  ======================================================================================================================
  */
 

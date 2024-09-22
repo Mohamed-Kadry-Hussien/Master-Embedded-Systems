@@ -3,7 +3,7 @@
  Name        : EX6_C_Finding_The_Size_of_Both_Union_and_Structure.
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 17/8/2024
- Description : Unit 2 C-Programming >>Structures >> assignments >> EX6 using ANSI C-style (c99)
+ Description : Unit 2 C-Programming >>Structures >> assignments >> EX6 
  ======================================================================================================================
  */
 

@@ -4,7 +4,7 @@
  Name        : EX8_Make a simple Calculator to add,subtract,Multiply and Divide using switch case
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 24/7/2024
- Description : Unit 2 C-Progtamming >> C-Basic >> Assignment_2 >>Ex_8 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >> C-Basic >> Assignment_2 >>Ex_8
  ======================================================================================================================
  */
 #include <stdio.h>

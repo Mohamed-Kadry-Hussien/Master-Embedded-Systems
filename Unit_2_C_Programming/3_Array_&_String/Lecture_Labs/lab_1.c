@@ -3,7 +3,7 @@
  Name        : lab_1_scan_and_print_students_degrees
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 31/7/2024
- Description : Unit 2 C-Progtamming >>Array&string >> lab1 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Array&string >> lab1
  ======================================================================================================================
  */
 

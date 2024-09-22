@@ -4,7 +4,7 @@
                by the user to give him a check that the use is correct.
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 9/8/2024
- Description : Unit 2 C-Programming >>Functions>>Quiz>>Q1 using ANSI-style (c99)
+ Description : Unit 2 C-Programming >>Functions>>Quiz>>Q1 
  ======================================================================================================================
  */
 #include <stdio.h>

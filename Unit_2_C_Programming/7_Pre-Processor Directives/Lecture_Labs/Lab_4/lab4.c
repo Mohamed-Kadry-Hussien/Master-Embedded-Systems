@@ -3,7 +3,7 @@
  Name        : Lab_3
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 21/8/2024
- Description : Unit 2 C-Progtamming >>Pre-Processor Directives>>Lab_3  using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Pre-Processor Directives>>Lab_3 
  ======================================================================================================================
 */
 

@@ -3,7 +3,7 @@
  Name        : EX3_find largest number among three numbers
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 24/7/2024
- Description : Unit 2 C-Progtamming >> C-Basic >> Assignment_2 >>Ex_3 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >> C-Basic >> Assignment_2 >>Ex_3
  ======================================================================================================================
  */
 #include <stdio.h>

@@ -3,7 +3,7 @@
  Name        : EX_2_Find_The_Length_of_a_String
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 31/7/2024
- Description : Unit 2 C-Progtamming >>Array&string >> assigments>>EX_2 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Array&string >> assigments>>EX_2
  ======================================================================================================================
  */
 

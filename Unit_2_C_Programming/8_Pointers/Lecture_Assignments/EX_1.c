@@ -3,7 +3,7 @@
  Name        : EX1_ Write a program in C to print a string in reverse using a pointer.
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 27/8/2024
- Description : Unit 2 C-Progtamming >>Pointer>>Assignments>>EX_1 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Pointer>>Assignments>>EX_1 
  ======================================================================================================================
  */
 

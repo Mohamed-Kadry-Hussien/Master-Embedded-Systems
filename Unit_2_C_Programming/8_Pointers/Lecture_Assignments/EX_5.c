@@ -3,7 +3,7 @@
  Name        : EX_5
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 27/8/2024
- Description : Unit 2 C-Programming >>Pointer>>Assignments>>EX_5 using ANSI-style (c99)
+ Description : Unit 2 C-Programming >>Pointer>>Assignments>>EX_5
  ======================================================================================================================
  */
 

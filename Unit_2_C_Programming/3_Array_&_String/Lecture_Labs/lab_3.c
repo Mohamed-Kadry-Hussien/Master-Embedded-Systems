@@ -3,7 +3,7 @@
  Name        : lab_3_Calculate and Print the Transpose of 3x3 Matrix
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 31/7/2024
- Description : Unit 2 C-Progtamming >>Array&string >> lab3 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Array&string >> lab3
  ======================================================================================================================
  */
 

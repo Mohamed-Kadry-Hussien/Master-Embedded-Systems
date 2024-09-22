@@ -3,7 +3,7 @@
  Name        : Comparing Three Numbers
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 24/7/2024
- Description : Unit 2 C-Progtamming >> C-Basic >> Lab_2 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >> C-Basic >> Lab_2
  ======================================================================================================================
  */
 

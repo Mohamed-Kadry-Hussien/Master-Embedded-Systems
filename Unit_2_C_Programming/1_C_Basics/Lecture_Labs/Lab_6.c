@@ -3,7 +3,7 @@
  Name        : draw pattern
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 24/7/2024
- Description : Unit 2 C-Progtamming >> C-Basic >> Lab_6 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >> C-Basic >> Lab6
  ======================================================================================================================
  */
 /*

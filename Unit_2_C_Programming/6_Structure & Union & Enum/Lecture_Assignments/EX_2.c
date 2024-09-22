@@ -3,7 +3,7 @@
  Name        : EX2 C program to add two distances (in inch-feet) system using structure
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 17/8/2024
- Description : Unit 2 C-Progtamming >>Structures >> assignments >> EX2  using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Structures >> assignments >> EX2  
  ======================================================================================================================
  */
 

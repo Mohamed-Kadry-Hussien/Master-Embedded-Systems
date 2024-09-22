@@ -3,7 +3,7 @@
  Name        : Q8_Find the index of Last occurrence of a number in a given array
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 9/8/2024
- Description : Unit 2 C-Programming >>Functions>>Quiz >> Q8 using ANSI-style (c99)
+ Description : Unit 2 C-Programming >>Functions>>Quiz >> Q8 
  ======================================================================================================================
  */
 #include <stdio.h>

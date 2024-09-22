@@ -7,7 +7,7 @@
                 * ex2: input:10 ->output:3.162
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 12/8/2024
- Description : Unit 2 C-Programming >>MidTerm using ANSI-style (c99)
+ Description : Unit 2 C-Programming >>MidTerm 
  ======================================================================================================================
  */
 #include <stdio.h>

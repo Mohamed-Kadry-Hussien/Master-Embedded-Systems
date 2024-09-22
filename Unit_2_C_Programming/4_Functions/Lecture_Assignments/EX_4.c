@@ -4,7 +4,7 @@
                by the userand then the power will be calculated and printed on the screen.
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 9/8/2024
- Description : Unit 2 C-Programming >>Functions>>Ex_4 using ANSI-style (c99)
+ Description : Unit 2 C-Programming >>Functions>>Ex_4 
  ======================================================================================================================
  */
 #include <stdio.h>

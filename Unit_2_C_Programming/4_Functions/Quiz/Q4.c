@@ -3,7 +3,7 @@
  Name        : Q4_Convert a decimal number stored as an ASCII array to an unsigned integer
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 9/8/2024
- Description : Unit 2 C-Programming >>Functions>>Quiz >> Q4 using ANSI-style (c99)
+ Description : Unit 2 C-Programming >>Functions>>Quiz >> Q4 
  ======================================================================================================================
  */
 #include <stdio.h>

@@ -3,7 +3,7 @@
  Name        : lab1_Calculate the Factorial
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 7/8/2024
- Description : Unit 2 C-Progtamming >>Function >> lab1 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Function >> lab1 
  ======================================================================================================================
  */
 

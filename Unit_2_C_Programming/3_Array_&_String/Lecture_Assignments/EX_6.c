@@ -3,7 +3,7 @@
  Name        : EX_6_Search for an element in an array
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 31/7/2024
- Description : Unit 2 C-Progtamming >>Array&string >> assignments >> EX_6 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >>Array&string >> assignments >> EX_6
  ======================================================================================================================
 */
 

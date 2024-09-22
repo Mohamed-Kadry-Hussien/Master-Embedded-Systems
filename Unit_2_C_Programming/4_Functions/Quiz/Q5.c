@@ -3,7 +3,7 @@
  Name        : Q5_Clear specific bit in given number.
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 9/8/2024
- Description : Unit 2 C-Programming >>Functions>>Quiz >> Q5 using ANSI-style (c99)
+ Description : Unit 2 C-Programming >>Functions>>Quiz >> Q5 
  ======================================================================================================================
  */
 

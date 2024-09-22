@@ -3,7 +3,7 @@
  Name        : Q7_Check if the given number is a power of 3.
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 9/8/2024
- Description : Unit 2 C-Programming >>Functions>>Quiz >> Q7 using ANSI-style (c99)
+ Description : Unit 2 C-Programming >>Functions>>Quiz >> Q7 
  ======================================================================================================================
  */
 

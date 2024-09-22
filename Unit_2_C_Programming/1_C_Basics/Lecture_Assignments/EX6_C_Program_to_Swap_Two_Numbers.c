@@ -3,7 +3,7 @@
  Name        : EX6_C_Program_to_Swap_Two_Numbers
  Author      : Eng.Mohamed Kadry Hussien
  Created on	 : 24/7/2024
- Description : Unit 2 C-Progtamming >> C-Basic >> Assignment_1 >>Ex_6 using Ansi-style (c99)
+ Description : Unit 2 C-Programming >> C-Basic >> Assignment_1 >>Ex_6
  ======================================================================================================================
  */
 
